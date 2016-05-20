@@ -1,0 +1,50 @@
+D:\Medibv115\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Medibv115\Entity\bin\Debug\Entity.dll
+D:\Medibv115\Entity\bin\Debug\Entity.pdb
+D:\Medibv115\Entity\obj\Debug\Entity.dll
+D:\Medibv115\Entity\obj\Debug\Entity.pdb
+D:\Source\Medibv115\Entity\bin\Debug\Entity.dll
+D:\Source\Medibv115\Entity\bin\Debug\Entity.pdb
+D:\Source\Medibv115\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\Medibv115\Entity\obj\Debug\Entity.dll
+D:\Source\Medibv115\Entity\obj\Debug\Entity.pdb
+D:\Source\QLMay\Entity\bin\Debug\Entity.dll
+D:\Source\QLMay\Entity\bin\Debug\Entity.pdb
+D:\Source\QLMay\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\QLMay\Entity\obj\Debug\Entity.dll
+D:\Source\QLMay\Entity\obj\Debug\Entity.pdb
+D:\QLMay\Entity\bin\Debug\Entity.dll
+D:\QLMay\Entity\bin\Debug\Entity.pdb
+D:\QLMay\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\QLMay\Entity\obj\Debug\Entity.dll
+D:\QLMay\Entity\obj\Debug\Entity.pdb
+E:\QLMay\Entity\bin\Debug\Entity.dll
+E:\QLMay\Entity\bin\Debug\Entity.pdb
+E:\QLMay\Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\QLMay\Entity\obj\Debug\Entity.dll
+E:\QLMay\Entity\obj\Debug\Entity.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Entity\bin\Debug\Entity.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Entity\bin\Debug\Entity.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Entity\obj\Debug\Entity.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Entity\obj\Debug\Entity.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Entity\bin\Release\Entity.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Entity\bin\Release\Entity.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Entity\obj\Release\ResolveAssemblyReference.cache
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Entity\obj\Release\Entity.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Entity\obj\Release\Entity.pdb
+D:\QLMay NHAN TRA THE\Entity\bin\Debug\Entity.dll
+D:\QLMay NHAN TRA THE\Entity\bin\Debug\Entity.pdb
+D:\QLMay NHAN TRA THE\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\QLMay NHAN TRA THE\Entity\obj\Debug\Entity.dll
+D:\QLMay NHAN TRA THE\Entity\obj\Debug\Entity.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Entity\bin\Debug\Entity.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Entity\bin\Debug\Entity.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Entity\obj\Debug\Entity.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Entity\obj\Debug\Entity.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Entity\bin\Debug\Entity.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Entity\bin\Debug\Entity.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Entity\obj\Debug\Entity.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Entity\obj\Debug\Entity.pdb

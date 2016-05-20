@@ -1,0 +1,42 @@
+E:\QLMay\QLYeuCau\bin\Debug\QLYeuCau.exe
+E:\QLMay\QLYeuCau\bin\Debug\QLYeuCau.pdb
+E:\QLMay\QLYeuCau\obj\Debug\ResolveAssemblyReference.cache
+E:\QLMay\QLYeuCau\obj\Debug\QLYeuCau.Properties.Resources.resources
+E:\QLMay\QLYeuCau\obj\Debug\QLYeuCau.csproj.GenerateResource.Cache
+E:\QLMay\QLYeuCau\obj\Debug\QLYeuCau.exe
+E:\QLMay\QLYeuCau\obj\Debug\QLYeuCau.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\QLYeuCau\bin\Debug\QLYeuCau.exe
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\QLYeuCau\bin\Debug\QLYeuCau.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\QLYeuCau\obj\Debug\ResolveAssemblyReference.cache
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\QLYeuCau\obj\Debug\QLYeuCau.Properties.Resources.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\QLYeuCau\obj\Debug\QLYeuCau.csproj.GenerateResource.Cache
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\QLYeuCau\obj\Debug\QLYeuCau.exe
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\QLYeuCau\obj\Debug\QLYeuCau.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\QLYeuCau\bin\Release\QLYeuCau.exe
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\QLYeuCau\bin\Release\QLYeuCau.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\QLYeuCau\obj\Release\ResolveAssemblyReference.cache
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\QLYeuCau\obj\Release\QLYeuCau.Properties.Resources.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\QLYeuCau\obj\Release\QLYeuCau.csproj.GenerateResource.Cache
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\QLYeuCau\obj\Release\QLYeuCau.exe
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\QLYeuCau\obj\Release\QLYeuCau.pdb
+D:\QLMay NHAN TRA THE\QLYeuCau\bin\Debug\QLYeuCau.exe
+D:\QLMay NHAN TRA THE\QLYeuCau\bin\Debug\QLYeuCau.pdb
+D:\QLMay NHAN TRA THE\QLYeuCau\obj\Debug\ResolveAssemblyReference.cache
+D:\QLMay NHAN TRA THE\QLYeuCau\obj\Debug\QLYeuCau.Properties.Resources.resources
+D:\QLMay NHAN TRA THE\QLYeuCau\obj\Debug\QLYeuCau.csproj.GenerateResource.Cache
+D:\QLMay NHAN TRA THE\QLYeuCau\obj\Debug\QLYeuCau.exe
+D:\QLMay NHAN TRA THE\QLYeuCau\obj\Debug\QLYeuCau.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\QLYeuCau\bin\Debug\QLYeuCau.exe
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\QLYeuCau\bin\Debug\QLYeuCau.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\QLYeuCau\obj\Debug\ResolveAssemblyReference.cache
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\QLYeuCau\obj\Debug\QLYeuCau.Properties.Resources.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\QLYeuCau\obj\Debug\QLYeuCau.csproj.GenerateResource.Cache
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\QLYeuCau\obj\Debug\QLYeuCau.exe
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\QLYeuCau\obj\Debug\QLYeuCau.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\QLYeuCau\bin\Debug\QLYeuCau.exe
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\QLYeuCau\bin\Debug\QLYeuCau.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\QLYeuCau\obj\Debug\ResolveAssemblyReference.cache
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\QLYeuCau\obj\Debug\QLYeuCau.Properties.Resources.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\QLYeuCau\obj\Debug\QLYeuCau.csproj.GenerateResource.Cache
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\QLYeuCau\obj\Debug\QLYeuCau.exe
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\QLYeuCau\obj\Debug\QLYeuCau.pdb

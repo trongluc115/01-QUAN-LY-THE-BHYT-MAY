@@ -1,0 +1,133 @@
+D:\NgocSon\Medisoft_Post\Report2007\LibBaocao\bin\Debug\LibBaocao.dll
+D:\NgocSon\Medisoft_Post\Report2007\LibBaocao\bin\Debug\LibBaocao.pdb
+D:\NgocSon\Medisoft_Post\Report2007\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+D:\NgocSon\Medisoft_Post\Report2007\LibBaocao\obj\Debug\LibBaocao.dll
+D:\NgocSon\Medisoft_Post\Report2007\LibBaocao\obj\Debug\LibBaocao.pdb
+D:\NgocSon\Medisoft_Postsql\LibBaocao\bin\Debug\LibBaocao.dll
+D:\NgocSon\Medisoft_Postsql\LibBaocao\bin\Debug\LibBaocao.pdb
+D:\NgocSon\Medisoft_Postsql\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+D:\NgocSon\Medisoft_Postsql\LibBaocao\obj\Debug\LibBaocao.dll
+D:\NgocSon\Medisoft_Postsql\LibBaocao\obj\Debug\LibBaocao.pdb
+D:\HAISON\Report2007\LibBaocao\bin\Debug\LibBaocao.dll
+D:\HAISON\Report2007\LibBaocao\bin\Debug\LibBaocao.pdb
+D:\HAISON\Report2007\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+D:\HAISON\Report2007\LibBaocao\obj\Debug\LibBaocao.dll
+D:\HAISON\Report2007\LibBaocao\obj\Debug\LibBaocao.pdb
+D:\Medisoft\Medisoft_2005\Report2009\LibBaocao\bin\Debug\LibBaocao.dll
+D:\Medisoft\Medisoft_2005\Report2009\LibBaocao\bin\Debug\LibBaocao.pdb
+D:\Medisoft\Medisoft_2005\Report2009\LibBaocao\bin\Debug\Oracle.DataAccess.dll
+D:\Medisoft\Medisoft_2005\Report2009\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+D:\Medisoft\Medisoft_2005\Report2009\LibBaocao\obj\Debug\LibBaocao.dll
+D:\Medisoft\Medisoft_2005\Report2009\LibBaocao\obj\Debug\LibBaocao.pdb
+D:\Medisoft\Medisoft_2005\Report2009\LibBaocao\bin\Debug\Interop.Excel.dll
+D:\Medisoft\Medisoft_2005\Report2009\LibBaocao\bin\Debug\office.dll
+D:\Medisoft\Medisoft_2005\Report2009\LibBaocao\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Medisoft\Medisoft_2005\Report2009\LibBaocao\bin\Debug\office.xml
+D:\Source_Code\Toancau\Oracle_11g_2005\LibBaocao\bin\Debug\LibBaocao.dll
+D:\Source_Code\Toancau\Oracle_11g_2005\LibBaocao\bin\Debug\LibBaocao.pdb
+D:\Source_Code\Toancau\Oracle_11g_2005\LibBaocao\bin\Debug\Interop.Excel.dll
+D:\Source_Code\Toancau\Oracle_11g_2005\LibBaocao\bin\Debug\LibDuoc.dll
+D:\Source_Code\Toancau\Oracle_11g_2005\LibBaocao\bin\Debug\Oracle.DataAccess.dll
+D:\Source_Code\Toancau\Oracle_11g_2005\LibBaocao\bin\Debug\LibLicense.dll
+D:\Source_Code\Toancau\Oracle_11g_2005\LibBaocao\bin\Debug\LibLicense.pdb
+D:\Source_Code\Toancau\Oracle_11g_2005\LibBaocao\bin\Debug\LibDuoc.pdb
+D:\Source_Code\Toancau\Oracle_11g_2005\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+D:\Source_Code\Toancau\Oracle_11g_2005\LibBaocao\obj\Debug\LibBaocao.dll
+D:\Source_Code\Toancau\Oracle_11g_2005\LibBaocao\obj\Debug\LibBaocao.pdb
+D:\Medisoft\Medisoft_2005\Report2009\LibBaocao\bin\Debug\LibLicense.dll
+D:\Medisoft\Medisoft_2005\Report2009\LibBaocao\bin\Debug\LibDuoc.dll
+D:\Medisoft2009\LibBaocao\bin\Debug\LibBaocao.dll
+D:\Medisoft2009\LibBaocao\bin\Debug\LibBaocao.pdb
+D:\Medisoft2009\LibBaocao\bin\Debug\Oracle.DataAccess.dll
+D:\Medisoft2009\LibBaocao\bin\Debug\LibLicense.dll
+D:\Medisoft2009\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+D:\Medisoft2009\LibBaocao\obj\Debug\LibBaocao.dll
+D:\Medisoft2009\LibBaocao\obj\Debug\LibBaocao.pdb
+D:\Medisoft2009\LibBaocao\bin\Debug\Interop.Excel.dll
+D:\Medisoft2009\LibBaocao\bin\Debug\LibDuoc.dll
+D:\New Folder\LibBaocao\bin\Debug\LibBaocao.dll
+D:\New Folder\LibBaocao\bin\Debug\LibBaocao.pdb
+D:\New Folder\LibBaocao\bin\Debug\Interop.Excel.dll
+D:\New Folder\LibBaocao\bin\Debug\LibDuoc.dll
+D:\New Folder\LibBaocao\bin\Debug\Oracle.DataAccess.dll
+D:\New Folder\LibBaocao\bin\Debug\LibLicense.dll
+D:\New Folder\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+D:\New Folder\LibBaocao\obj\Debug\LibBaocao.dll
+D:\New Folder\LibBaocao\obj\Debug\LibBaocao.pdb
+D:\medisoft\IT115\LibBaocao\bin\Debug\LibBaocao.dll
+D:\medisoft\IT115\LibBaocao\bin\Debug\LibBaocao.pdb
+D:\medisoft\IT115\LibBaocao\bin\Debug\Oracle.DataAccess.dll
+D:\medisoft\IT115\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+D:\medisoft\IT115\LibBaocao\obj\Debug\LibBaocao.dll
+D:\medisoft\IT115\LibBaocao\obj\Debug\LibBaocao.pdb
+D:\medisoft2009\IT115\LibBaocao\bin\Debug\LibBaocao.dll
+D:\medisoft2009\IT115\LibBaocao\bin\Debug\LibBaocao.pdb
+D:\medisoft2009\IT115\LibBaocao\bin\Debug\Oracle.DataAccess.dll
+D:\medisoft2009\IT115\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+D:\medisoft2009\IT115\LibBaocao\obj\Debug\LibBaocao.dll
+D:\medisoft2009\IT115\LibBaocao\obj\Debug\LibBaocao.pdb
+D:\medisoft2009\IT115\LibBaocao\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\pk-08\Desktop\IT115\LibBaocao\bin\Debug\LibBaocao.dll
+C:\Documents and Settings\pk-08\Desktop\IT115\LibBaocao\bin\Debug\LibBaocao.pdb
+C:\Documents and Settings\pk-08\Desktop\IT115\LibBaocao\bin\Debug\Oracle.DataAccess.dll
+C:\Documents and Settings\pk-08\Desktop\IT115\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pk-08\Desktop\IT115\LibBaocao\obj\Debug\LibBaocao.dll
+C:\Documents and Settings\pk-08\Desktop\IT115\LibBaocao\obj\Debug\LibBaocao.pdb
+E:\IT115\LibBaocao\bin\Debug\LibBaocao.dll
+E:\IT115\LibBaocao\bin\Debug\LibBaocao.pdb
+E:\IT115\LibBaocao\bin\Debug\Oracle.DataAccess.dll
+E:\IT115\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+E:\IT115\LibBaocao\obj\Debug\LibBaocao.dll
+E:\IT115\LibBaocao\obj\Debug\LibBaocao.pdb
+D:\IT115\IT115\LibBaocao\bin\Debug\LibBaocao.dll
+D:\IT115\IT115\LibBaocao\bin\Debug\LibBaocao.pdb
+D:\IT115\IT115\LibBaocao\bin\Debug\Oracle.DataAccess.dll
+D:\IT115\IT115\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+D:\IT115\IT115\LibBaocao\obj\Debug\LibBaocao.dll
+D:\IT115\IT115\LibBaocao\obj\Debug\LibBaocao.pdb
+D:\D\IT115\IT115\LibBaocao\bin\Debug\LibBaocao.dll
+D:\D\IT115\IT115\LibBaocao\bin\Debug\LibBaocao.pdb
+D:\D\IT115\IT115\LibBaocao\bin\Debug\Oracle.DataAccess.dll
+D:\D\IT115\IT115\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+D:\D\IT115\IT115\LibBaocao\obj\Debug\LibBaocao.dll
+D:\D\IT115\IT115\LibBaocao\obj\Debug\LibBaocao.pdb
+E:\Lap trinh_test\New folder\IT115\LibBaocao\bin\Debug\LibBaocao.dll
+E:\Lap trinh_test\New folder\IT115\LibBaocao\bin\Debug\LibBaocao.pdb
+E:\Lap trinh_test\New folder\IT115\LibBaocao\bin\Debug\Oracle.DataAccess.dll
+E:\Lap trinh_test\New folder\IT115\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+E:\Lap trinh_test\New folder\IT115\LibBaocao\obj\Debug\LibBaocao.dll
+E:\Lap trinh_test\New folder\IT115\LibBaocao\obj\Debug\LibBaocao.pdb
+D:\IT115\LibBaocao\bin\Debug\LibBaocao.dll
+D:\IT115\LibBaocao\bin\Debug\LibBaocao.pdb
+D:\IT115\LibBaocao\bin\Debug\Oracle.DataAccess.dll
+D:\IT115\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+D:\IT115\LibBaocao\obj\Debug\LibBaocao.dll
+D:\IT115\LibBaocao\obj\Debug\LibBaocao.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\LibBaocao\bin\Debug\LibBaocao.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\LibBaocao\bin\Debug\LibBaocao.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\LibBaocao\bin\Debug\Oracle.DataAccess.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\LibBaocao\bin\Debug\LibLicense.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\LibBaocao\obj\Debug\LibBaocao.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\LibBaocao\obj\Debug\LibBaocao.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\LibBaocao\obj\Release\ResolveAssemblyReference.cache
+D:\QLMay NHAN TRA THE\LibBaocao\bin\Debug\LibBaocao.dll
+D:\QLMay NHAN TRA THE\LibBaocao\bin\Debug\LibBaocao.pdb
+D:\QLMay NHAN TRA THE\LibBaocao\bin\Debug\Oracle.DataAccess.dll
+D:\QLMay NHAN TRA THE\LibBaocao\bin\Debug\LibLicense.dll
+D:\QLMay NHAN TRA THE\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+D:\QLMay NHAN TRA THE\LibBaocao\obj\Debug\LibBaocao.dll
+D:\QLMay NHAN TRA THE\LibBaocao\obj\Debug\LibBaocao.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\LibBaocao\bin\Debug\LibBaocao.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\LibBaocao\bin\Debug\LibBaocao.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\LibBaocao\bin\Debug\Oracle.DataAccess.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\LibBaocao\bin\Debug\LibLicense.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\LibBaocao\obj\Debug\LibBaocao.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\LibBaocao\obj\Debug\LibBaocao.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\LibBaocao\bin\Debug\LibBaocao.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\LibBaocao\bin\Debug\LibBaocao.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\LibBaocao\bin\Debug\LibLicense.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\LibBaocao\obj\Debug\LibBaocao.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\LibBaocao\obj\Debug\LibBaocao.pdb

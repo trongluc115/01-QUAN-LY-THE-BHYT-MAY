@@ -1,0 +1,149 @@
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.exe
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.pdb
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\ResolveAssemblyReference.cache
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmTiepNhanKB.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmQLXoachidinhFromMaBN.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmQLXoachidinh.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmchidinh.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmQLBHYT_trathe.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmDanhMucQLBHYT.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmQLBHYT.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmDanhMucYC.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmQLYeuCau.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmDanhMucCT.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmBaoTri.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmDanhMuc.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmQLThietBi.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmAbout.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmDuyetBHYTNoiTru.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmBaoCaoNoiTruBHYT.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmBaoCaoNgoaiTruBHYT.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmBCDuocMau20.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmDuyetBHYT.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmLogin.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmMain.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmReport.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.haison.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.Properties.Resources.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.csproj.GenerateResource.Cache
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\Report2009.TreeView_HAISON.resources
+D:\QLMay NHAN TRA THE\Medibv115\bin\Debug\MediIT115.exe
+D:\QLMay NHAN TRA THE\Medibv115\bin\Debug\MediIT115.pdb
+D:\QLMay NHAN TRA THE\Medibv115\bin\Debug\Data.dll
+D:\QLMay NHAN TRA THE\Medibv115\bin\Debug\DataMySQL.dll
+D:\QLMay NHAN TRA THE\Medibv115\bin\Debug\DataOracle.dll
+D:\QLMay NHAN TRA THE\Medibv115\bin\Debug\Entity.dll
+D:\QLMay NHAN TRA THE\Medibv115\bin\Debug\LibBaocao.dll
+D:\QLMay NHAN TRA THE\Medibv115\bin\Debug\LibLicense.dll
+D:\QLMay NHAN TRA THE\Medibv115\bin\Debug\Oracle.DataAccess.dll
+D:\QLMay NHAN TRA THE\Medibv115\bin\Debug\MySql.Data.dll
+D:\QLMay NHAN TRA THE\Medibv115\bin\Debug\LibDuoc.dll
+D:\QLMay NHAN TRA THE\Medibv115\bin\Debug\dichso.dll
+D:\QLMay NHAN TRA THE\Medibv115\bin\Debug\DataOracle.pdb
+D:\QLMay NHAN TRA THE\Medibv115\bin\Debug\Data.pdb
+D:\QLMay NHAN TRA THE\Medibv115\bin\Debug\Entity.pdb
+D:\QLMay NHAN TRA THE\Medibv115\bin\Debug\LibBaocao.pdb
+D:\QLMay NHAN TRA THE\Medibv115\bin\Debug\DataMySQL.pdb
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmReportQLMay.resources
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmReportKiemKe.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.exe
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\bin\Debug\MediIT115.exe
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\bin\Debug\MediIT115.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\bin\Debug\Data.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\bin\Debug\DataMySQL.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\bin\Debug\DataOracle.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\bin\Debug\Entity.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\bin\Debug\LibBaocao.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\bin\Debug\LibUsbDotNet.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\bin\Debug\LibLicense.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\bin\Debug\Oracle.DataAccess.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\bin\Debug\MySql.Data.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\bin\Debug\LibDuoc.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\bin\Debug\dichso.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\bin\Debug\DataOracle.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\bin\Debug\Data.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\bin\Debug\LibUsbDotNet.xml
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\bin\Debug\Entity.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\bin\Debug\LibBaocao.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\bin\Debug\DataMySQL.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\ResolveAssemblyReference.cache
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmReportKiemKe.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmReportQLMay.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmTiepNhanKB.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmQLXoachidinhFromMaBN.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmQLXoachidinh.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmchidinh.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmQLBHYT_trathe.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmDanhMucQLBHYT.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmQLBHYT.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmDanhMucYC.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmQLYeuCau.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmDanhMucCT.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmBaoTri.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmDanhMuc.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmQLThietBi.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmAbout.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmDuyetBHYTNoiTru.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmBaoCaoNoiTruBHYT.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmBaoCaoNgoaiTruBHYT.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmBCDuocMau20.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmDuyetBHYT.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmLogin.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmMain.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.frmReport.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.haison.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.Properties.Resources.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\Report2009.TreeView_HAISON.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Medibv115\obj\Debug\MediIT115.csproj.GenerateResource.Cache
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.exe
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\bin\Debug\MediIT115.exe
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\bin\Debug\MediIT115.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\bin\Debug\Data.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\bin\Debug\DataMySQL.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\bin\Debug\DataOracle.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\bin\Debug\Entity.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\bin\Debug\LibBaocao.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\bin\Debug\LibUsbDotNet.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\bin\Debug\LibLicense.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\bin\Debug\Oracle.DataAccess.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\bin\Debug\MySql.Data.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\bin\Debug\LibDuoc.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\bin\Debug\dichso.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\bin\Debug\DataOracle.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\bin\Debug\Data.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\bin\Debug\LibUsbDotNet.xml
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\bin\Debug\Entity.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\bin\Debug\LibBaocao.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\bin\Debug\DataMySQL.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\ResolveAssemblyReference.cache
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmReportKiemKe.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmReportQLMay.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmTiepNhanKB.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmQLXoachidinhFromMaBN.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmQLXoachidinh.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmchidinh.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmQLBHYT_trathe.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmDanhMucQLBHYT.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmQLBHYT.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmDanhMucYC.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmQLYeuCau.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmDanhMucCT.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmBaoTri.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmDanhMuc.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmQLThietBi.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmAbout.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmDuyetBHYTNoiTru.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmBaoCaoNoiTruBHYT.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmBaoCaoNgoaiTruBHYT.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmBCDuocMau20.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmDuyetBHYT.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmLogin.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmMain.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmReport.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.haison.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.Properties.Resources.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\Report2009.TreeView_HAISON.resources
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.csproj.GenerateResource.Cache
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Medibv115\obj\Debug\MediIT115.frmKiemke.resources

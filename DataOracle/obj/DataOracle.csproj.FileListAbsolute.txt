@@ -1,0 +1,129 @@
+D:\Medibv115\DataOracle\bin\Debug\DataOracle.dll
+D:\Medibv115\DataOracle\bin\Debug\DataOracle.pdb
+D:\Medibv115\DataOracle\obj\Debug\ResolveAssemblyReference.cache
+D:\Medibv115\DataOracle\obj\Debug\DataOracle.dll
+D:\Medibv115\DataOracle\obj\Debug\DataOracle.pdb
+D:\Medibv115\DataOracle\bin\Debug\Entity.dll
+D:\Medibv115\DataOracle\bin\Debug\LibBaocao.dll
+D:\Medibv115\DataOracle\bin\Debug\Oracle.DataAccess.dll
+D:\Medibv115\DataOracle\bin\Debug\Interop.Excel.dll
+D:\Medibv115\DataOracle\bin\Debug\LibDuoc.dll
+D:\Medibv115\DataOracle\bin\Debug\dichso.dll
+D:\Medibv115\DataOracle\bin\Debug\Entity.pdb
+D:\Medibv115\DataOracle\bin\Debug\LibBaocao.pdb
+D:\Source\Medibv115\DataOracle\bin\Debug\DataOracle.dll
+D:\Source\Medibv115\DataOracle\bin\Debug\DataOracle.pdb
+D:\Source\Medibv115\DataOracle\bin\Debug\Entity.dll
+D:\Source\Medibv115\DataOracle\bin\Debug\Entity.pdb
+D:\Source\Medibv115\DataOracle\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\Medibv115\DataOracle\obj\Debug\DataOracle.dll
+D:\Source\Medibv115\DataOracle\obj\Debug\DataOracle.pdb
+D:\Source\Medibv115\DataOracle\bin\Debug\LibBaocao.dll
+D:\Source\Medibv115\DataOracle\bin\Debug\LibLicense.dll
+D:\Source\Medibv115\DataOracle\bin\Debug\Oracle.DataAccess.dll
+D:\Source\Medibv115\DataOracle\bin\Debug\Interop.Excel.dll
+D:\Source\Medibv115\DataOracle\bin\Debug\dichso.dll
+D:\Source\Medibv115\DataOracle\bin\Debug\LibDuoc.dll
+D:\Source\Medibv115\DataOracle\bin\Debug\LibBaocao.pdb
+D:\Source\QLMay\DataOracle\bin\Debug\DataOracle.dll
+D:\Source\QLMay\DataOracle\bin\Debug\DataOracle.pdb
+D:\Source\QLMay\DataOracle\bin\Debug\Entity.dll
+D:\Source\QLMay\DataOracle\bin\Debug\LibBaocao.dll
+D:\Source\QLMay\DataOracle\bin\Debug\LibLicense.dll
+D:\Source\QLMay\DataOracle\bin\Debug\Oracle.DataAccess.dll
+D:\Source\QLMay\DataOracle\bin\Debug\Interop.Excel.dll
+D:\Source\QLMay\DataOracle\bin\Debug\dichso.dll
+D:\Source\QLMay\DataOracle\bin\Debug\LibDuoc.dll
+D:\Source\QLMay\DataOracle\bin\Debug\Entity.pdb
+D:\Source\QLMay\DataOracle\bin\Debug\LibBaocao.pdb
+D:\Source\QLMay\DataOracle\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\QLMay\DataOracle\obj\Debug\DataOracle.dll
+D:\Source\QLMay\DataOracle\obj\Debug\DataOracle.pdb
+D:\QLMay\DataOracle\bin\Debug\DataOracle.dll
+D:\QLMay\DataOracle\bin\Debug\DataOracle.pdb
+D:\QLMay\DataOracle\bin\Debug\Entity.dll
+D:\QLMay\DataOracle\bin\Debug\LibBaocao.dll
+D:\QLMay\DataOracle\bin\Debug\LibLicense.dll
+D:\QLMay\DataOracle\bin\Debug\Oracle.DataAccess.dll
+D:\QLMay\DataOracle\bin\Debug\Interop.Excel.dll
+D:\QLMay\DataOracle\bin\Debug\LibDuoc.dll
+D:\QLMay\DataOracle\bin\Debug\office.dll
+D:\QLMay\DataOracle\bin\Debug\dichso.dll
+D:\QLMay\DataOracle\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\QLMay\DataOracle\bin\Debug\Entity.pdb
+D:\QLMay\DataOracle\bin\Debug\LibBaocao.pdb
+D:\QLMay\DataOracle\bin\Debug\office.xml
+D:\QLMay\DataOracle\obj\Debug\ResolveAssemblyReference.cache
+D:\QLMay\DataOracle\obj\Debug\DataOracle.dll
+D:\QLMay\DataOracle\obj\Debug\DataOracle.pdb
+E:\QLMay\DataOracle\bin\Debug\DataOracle.dll
+E:\QLMay\DataOracle\bin\Debug\DataOracle.pdb
+E:\QLMay\DataOracle\bin\Debug\Entity.dll
+E:\QLMay\DataOracle\bin\Debug\LibBaocao.dll
+E:\QLMay\DataOracle\bin\Debug\LibLicense.dll
+E:\QLMay\DataOracle\bin\Debug\Oracle.DataAccess.dll
+E:\QLMay\DataOracle\bin\Debug\Interop.Excel.dll
+E:\QLMay\DataOracle\bin\Debug\LibDuoc.dll
+E:\QLMay\DataOracle\bin\Debug\dichso.dll
+E:\QLMay\DataOracle\bin\Debug\Entity.pdb
+E:\QLMay\DataOracle\bin\Debug\LibBaocao.pdb
+E:\QLMay\DataOracle\obj\Debug\ResolveAssemblyReference.cache
+E:\QLMay\DataOracle\obj\Debug\DataOracle.dll
+E:\QLMay\DataOracle\obj\Debug\DataOracle.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\DataOracle\bin\Debug\DataOracle.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\DataOracle\bin\Debug\DataOracle.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\DataOracle\bin\Debug\Entity.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\DataOracle\bin\Debug\LibBaocao.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\DataOracle\bin\Debug\LibLicense.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\DataOracle\bin\Debug\Oracle.DataAccess.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\DataOracle\bin\Debug\Interop.Excel.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\DataOracle\bin\Debug\LibDuoc.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\DataOracle\bin\Debug\dichso.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\DataOracle\bin\Debug\Entity.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\DataOracle\bin\Debug\LibBaocao.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\DataOracle\obj\Debug\ResolveAssemblyReference.cache
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\DataOracle\obj\Debug\DataOracle.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\DataOracle\obj\Debug\DataOracle.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\DataOracle\obj\Release\ResolveAssemblyReference.cache
+D:\QLMay NHAN TRA THE\DataOracle\bin\Debug\DataOracle.dll
+D:\QLMay NHAN TRA THE\DataOracle\bin\Debug\DataOracle.pdb
+D:\QLMay NHAN TRA THE\DataOracle\bin\Debug\Entity.dll
+D:\QLMay NHAN TRA THE\DataOracle\bin\Debug\LibBaocao.dll
+D:\QLMay NHAN TRA THE\DataOracle\bin\Debug\LibLicense.dll
+D:\QLMay NHAN TRA THE\DataOracle\bin\Debug\Oracle.DataAccess.dll
+D:\QLMay NHAN TRA THE\DataOracle\bin\Debug\Interop.Excel.dll
+D:\QLMay NHAN TRA THE\DataOracle\bin\Debug\LibDuoc.dll
+D:\QLMay NHAN TRA THE\DataOracle\bin\Debug\dichso.dll
+D:\QLMay NHAN TRA THE\DataOracle\bin\Debug\Entity.pdb
+D:\QLMay NHAN TRA THE\DataOracle\bin\Debug\LibBaocao.pdb
+D:\QLMay NHAN TRA THE\DataOracle\obj\Debug\ResolveAssemblyReference.cache
+D:\QLMay NHAN TRA THE\DataOracle\obj\Debug\DataOracle.dll
+D:\QLMay NHAN TRA THE\DataOracle\obj\Debug\DataOracle.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\DataOracle\bin\Debug\DataOracle.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\DataOracle\bin\Debug\DataOracle.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\DataOracle\bin\Debug\Entity.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\DataOracle\bin\Debug\LibBaocao.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\DataOracle\bin\Debug\LibLicense.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\DataOracle\bin\Debug\Oracle.DataAccess.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\DataOracle\bin\Debug\Interop.Excel.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\DataOracle\bin\Debug\LibDuoc.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\DataOracle\bin\Debug\dichso.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\DataOracle\bin\Debug\Entity.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\DataOracle\bin\Debug\LibBaocao.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\DataOracle\obj\Debug\ResolveAssemblyReference.cache
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\DataOracle\obj\Debug\DataOracle.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\DataOracle\obj\Debug\DataOracle.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\DataOracle\bin\Debug\DataOracle.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\DataOracle\bin\Debug\DataOracle.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\DataOracle\bin\Debug\Entity.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\DataOracle\bin\Debug\LibBaocao.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\DataOracle\bin\Debug\LibLicense.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\DataOracle\bin\Debug\Oracle.DataAccess.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\DataOracle\bin\Debug\Interop.Excel.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\DataOracle\bin\Debug\LibDuoc.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\DataOracle\bin\Debug\dichso.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\DataOracle\bin\Debug\Entity.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\DataOracle\bin\Debug\LibBaocao.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\DataOracle\obj\Debug\ResolveAssemblyReference.cache
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\DataOracle\obj\Debug\DataOracle.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\DataOracle\obj\Debug\DataOracle.pdb

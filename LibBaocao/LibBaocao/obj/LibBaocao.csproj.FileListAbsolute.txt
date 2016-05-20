@@ -1,0 +1,15 @@
+D:\NgocSon\Medisoft_Post\Report2007\LibBaocao\bin\Debug\LibBaocao.dll
+D:\NgocSon\Medisoft_Post\Report2007\LibBaocao\bin\Debug\LibBaocao.pdb
+D:\NgocSon\Medisoft_Post\Report2007\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+D:\NgocSon\Medisoft_Post\Report2007\LibBaocao\obj\Debug\LibBaocao.dll
+D:\NgocSon\Medisoft_Post\Report2007\LibBaocao\obj\Debug\LibBaocao.pdb
+D:\NgocSon\Medisoft_Postsql\LibBaocao\bin\Debug\LibBaocao.dll
+D:\NgocSon\Medisoft_Postsql\LibBaocao\bin\Debug\LibBaocao.pdb
+D:\NgocSon\Medisoft_Postsql\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+D:\NgocSon\Medisoft_Postsql\LibBaocao\obj\Debug\LibBaocao.dll
+D:\NgocSon\Medisoft_Postsql\LibBaocao\obj\Debug\LibBaocao.pdb
+D:\HAISON\Report2007\LibBaocao\bin\Debug\LibBaocao.dll
+D:\HAISON\Report2007\LibBaocao\bin\Debug\LibBaocao.pdb
+D:\HAISON\Report2007\LibBaocao\obj\Debug\ResolveAssemblyReference.cache
+D:\HAISON\Report2007\LibBaocao\obj\Debug\LibBaocao.dll
+D:\HAISON\Report2007\LibBaocao\obj\Debug\LibBaocao.pdb

@@ -1,0 +1,228 @@
+D:\Medibv115\Medibv115\obj\Debug\ResolveAssemblyReference.cache
+D:\Medibv115\Medibv115\obj\Debug\Medibv115.Properties.Resources.resources
+D:\Medibv115\Medibv115\obj\Debug\Medibv115.csproj.GenerateResource.Cache
+D:\Medibv115\Medibv115\bin\Debug\Medibv115.exe
+D:\Medibv115\Medibv115\bin\Debug\Medibv115.pdb
+D:\Medibv115\Medibv115\bin\Debug\Entity.dll
+D:\Medibv115\Medibv115\bin\Debug\Entity.pdb
+D:\Medibv115\Medibv115\obj\Debug\Medibv115.exe
+D:\Medibv115\Medibv115\obj\Debug\Medibv115.pdb
+D:\Medibv115\Medibv115\bin\Debug\Data.dll
+D:\Medibv115\Medibv115\bin\Debug\Data.pdb
+D:\Medibv115\Medibv115\bin\Debug\DataOracle.dll
+D:\Medibv115\Medibv115\bin\Debug\Oracle.DataAccess.dll
+D:\Medibv115\Medibv115\bin\Debug\Interop.Excel.dll
+D:\Medibv115\Medibv115\bin\Debug\LibBaocao.dll
+D:\Medibv115\Medibv115\bin\Debug\dichso.dll
+D:\Medibv115\Medibv115\bin\Debug\LibDuoc.dll
+D:\Medibv115\Medibv115\bin\Debug\DataOracle.pdb
+D:\Medibv115\Medibv115\bin\Debug\LibBaocao.pdb
+D:\Medibv115\Medibv115\obj\Debug\Medibv115.frmDuyetBHYT.resources
+D:\Medibv115\Medibv115\obj\Debug\Medibv115.frmMain.resources
+D:\Medibv115\Medibv115\obj\Debug\Medibv115.frmBaoCaoNgoaiTruBHYT.resources
+D:\Medibv115\Medibv115\obj\Debug\Medibv115.frmReport.resources
+D:\Medibv115\Medibv115\obj\Debug\Medibv115.haison.resources
+D:\Medibv115\Medibv115\obj\Debug\Medibv115.frmLogin.resources
+D:\Medibv115\Medibv115\obj\Debug\Medibv115.frmBCDuocMau20.resources
+D:\Medibv115\Medibv115\obj\Debug\Medibv115.frmBaoCaoNoiTruBHYT.resources
+D:\Medibv115\Medibv115\obj\Debug\Medibv115.frmDuyetBHYTNoiTru.resources
+D:\Medibv115\Medibv115\obj\Debug\Medibv115.frmAbout.resources
+D:\Source\Medibv115\Medibv115\obj\Debug\Medibv115.exe
+D:\Source\Medibv115\Medibv115\obj\Debug\Medibv115.pdb
+D:\Source\Medibv115\Medibv115\bin\Debug\Medibv115.exe
+D:\Source\Medibv115\Medibv115\bin\Debug\Medibv115.pdb
+D:\Source\Medibv115\Medibv115\bin\Debug\Data.dll
+D:\Source\Medibv115\Medibv115\bin\Debug\DataOracle.dll
+D:\Source\Medibv115\Medibv115\bin\Debug\Entity.dll
+D:\Source\Medibv115\Medibv115\bin\Debug\Oracle.DataAccess.dll
+D:\Source\Medibv115\Medibv115\bin\Debug\LibDuoc.dll
+D:\Source\Medibv115\Medibv115\bin\Debug\LibBaocao.dll
+D:\Source\Medibv115\Medibv115\bin\Debug\dichso.dll
+D:\Source\Medibv115\Medibv115\bin\Debug\DataOracle.pdb
+D:\Source\Medibv115\Medibv115\bin\Debug\Data.pdb
+D:\Source\Medibv115\Medibv115\bin\Debug\Entity.pdb
+D:\Source\Medibv115\Medibv115\bin\Debug\LibBaocao.pdb
+D:\Source\Medibv115\Medibv115\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\Medibv115\Medibv115\obj\Debug\Medibv115.frmAbout.resources
+D:\Source\Medibv115\Medibv115\obj\Debug\Medibv115.frmDuyetBHYTNoiTru.resources
+D:\Source\Medibv115\Medibv115\obj\Debug\Medibv115.frmBaoCaoNoiTruBHYT.resources
+D:\Source\Medibv115\Medibv115\obj\Debug\Medibv115.frmBaoCaoNgoaiTruBHYT.resources
+D:\Source\Medibv115\Medibv115\obj\Debug\Medibv115.frmBCDuocMau20.resources
+D:\Source\Medibv115\Medibv115\obj\Debug\Medibv115.frmDuyetBHYT.resources
+D:\Source\Medibv115\Medibv115\obj\Debug\Medibv115.frmLogin.resources
+D:\Source\Medibv115\Medibv115\obj\Debug\Medibv115.frmMain.resources
+D:\Source\Medibv115\Medibv115\obj\Debug\Medibv115.frmReport.resources
+D:\Source\Medibv115\Medibv115\obj\Debug\Medibv115.haison.resources
+D:\Source\Medibv115\Medibv115\obj\Debug\Medibv115.Properties.Resources.resources
+D:\Source\Medibv115\Medibv115\obj\Debug\Medibv115.csproj.GenerateResource.Cache
+D:\Source\Medibv115\Medibv115\obj\Debug\Medibv115.frmQLThietBi.resources
+D:\Source\Medibv115\Medibv115\bin\Debug\LibLicense.dll
+D:\Source\Medibv115\Medibv115\bin\Debug\DataMySQL.dll
+D:\Source\Medibv115\Medibv115\bin\Debug\MySql.Data.dll
+D:\Source\Medibv115\Medibv115\bin\Debug\DataMySQL.pdb
+D:\Source\Medibv115\Medibv115\obj\Debug\Medibv115.frmDanhMuc.resources
+D:\Source\Medibv115\Medibv115\obj\Debug\Medibv115.frmBaoTri.resources
+D:\Source\QLMay\Medibv115\obj\Debug\Medibv115.exe
+D:\Source\QLMay\Medibv115\obj\Debug\Medibv115.pdb
+D:\Source\QLMay\Medibv115\bin\Debug\Medibv115.exe
+D:\Source\QLMay\Medibv115\bin\Debug\Medibv115.pdb
+D:\Source\QLMay\Medibv115\bin\Debug\Data.dll
+D:\Source\QLMay\Medibv115\bin\Debug\DataMySQL.dll
+D:\Source\QLMay\Medibv115\bin\Debug\DataOracle.dll
+D:\Source\QLMay\Medibv115\bin\Debug\Entity.dll
+D:\Source\QLMay\Medibv115\bin\Debug\LibBaocao.dll
+D:\Source\QLMay\Medibv115\bin\Debug\LibLicense.dll
+D:\Source\QLMay\Medibv115\bin\Debug\Oracle.DataAccess.dll
+D:\Source\QLMay\Medibv115\bin\Debug\LibDuoc.dll
+D:\Source\QLMay\Medibv115\bin\Debug\MySql.Data.dll
+D:\Source\QLMay\Medibv115\bin\Debug\dichso.dll
+D:\Source\QLMay\Medibv115\bin\Debug\DataOracle.pdb
+D:\Source\QLMay\Medibv115\bin\Debug\DataMySQL.pdb
+D:\Source\QLMay\Medibv115\bin\Debug\Data.pdb
+D:\Source\QLMay\Medibv115\bin\Debug\Entity.pdb
+D:\Source\QLMay\Medibv115\bin\Debug\LibBaocao.pdb
+D:\Source\QLMay\Medibv115\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\QLMay\Medibv115\obj\Debug\Medibv115.frmBaoTri.resources
+D:\Source\QLMay\Medibv115\obj\Debug\Medibv115.frmDanhMuc.resources
+D:\Source\QLMay\Medibv115\obj\Debug\Medibv115.frmQLThietBi.resources
+D:\Source\QLMay\Medibv115\obj\Debug\Medibv115.frmAbout.resources
+D:\Source\QLMay\Medibv115\obj\Debug\Medibv115.frmDuyetBHYTNoiTru.resources
+D:\Source\QLMay\Medibv115\obj\Debug\Medibv115.frmBaoCaoNoiTruBHYT.resources
+D:\Source\QLMay\Medibv115\obj\Debug\Medibv115.frmBaoCaoNgoaiTruBHYT.resources
+D:\Source\QLMay\Medibv115\obj\Debug\Medibv115.frmBCDuocMau20.resources
+D:\Source\QLMay\Medibv115\obj\Debug\Medibv115.frmDuyetBHYT.resources
+D:\Source\QLMay\Medibv115\obj\Debug\Medibv115.frmLogin.resources
+D:\Source\QLMay\Medibv115\obj\Debug\Medibv115.frmMain.resources
+D:\Source\QLMay\Medibv115\obj\Debug\Medibv115.frmReport.resources
+D:\Source\QLMay\Medibv115\obj\Debug\Medibv115.haison.resources
+D:\Source\QLMay\Medibv115\obj\Debug\Medibv115.Properties.Resources.resources
+D:\Source\QLMay\Medibv115\obj\Debug\Medibv115.csproj.GenerateResource.Cache
+D:\QLMay\Medibv115\obj\Debug\Medibv115.exe
+D:\QLMay\Medibv115\obj\Debug\Medibv115.pdb
+D:\QLMay\Medibv115\bin\Debug\Medibv115.exe
+D:\QLMay\Medibv115\bin\Debug\Medibv115.pdb
+D:\QLMay\Medibv115\bin\Debug\Data.dll
+D:\QLMay\Medibv115\bin\Debug\DataMySQL.dll
+D:\QLMay\Medibv115\bin\Debug\DataOracle.dll
+D:\QLMay\Medibv115\bin\Debug\Entity.dll
+D:\QLMay\Medibv115\bin\Debug\LibBaocao.dll
+D:\QLMay\Medibv115\bin\Debug\LibLicense.dll
+D:\QLMay\Medibv115\bin\Debug\Oracle.DataAccess.dll
+D:\QLMay\Medibv115\bin\Debug\LibDuoc.dll
+D:\QLMay\Medibv115\bin\Debug\MySql.Data.dll
+D:\QLMay\Medibv115\bin\Debug\dichso.dll
+D:\QLMay\Medibv115\bin\Debug\DataOracle.pdb
+D:\QLMay\Medibv115\bin\Debug\DataMySQL.pdb
+D:\QLMay\Medibv115\bin\Debug\Data.pdb
+D:\QLMay\Medibv115\bin\Debug\Entity.pdb
+D:\QLMay\Medibv115\bin\Debug\LibBaocao.pdb
+D:\QLMay\Medibv115\obj\Debug\ResolveAssemblyReference.cache
+D:\QLMay\Medibv115\obj\Debug\Medibv115.frmBaoTri.resources
+D:\QLMay\Medibv115\obj\Debug\Medibv115.frmDanhMuc.resources
+D:\QLMay\Medibv115\obj\Debug\Medibv115.frmQLThietBi.resources
+D:\QLMay\Medibv115\obj\Debug\Medibv115.frmAbout.resources
+D:\QLMay\Medibv115\obj\Debug\Medibv115.frmDuyetBHYTNoiTru.resources
+D:\QLMay\Medibv115\obj\Debug\Medibv115.frmBaoCaoNoiTruBHYT.resources
+D:\QLMay\Medibv115\obj\Debug\Medibv115.frmBaoCaoNgoaiTruBHYT.resources
+D:\QLMay\Medibv115\obj\Debug\Medibv115.frmBCDuocMau20.resources
+D:\QLMay\Medibv115\obj\Debug\Medibv115.frmDuyetBHYT.resources
+D:\QLMay\Medibv115\obj\Debug\Medibv115.frmLogin.resources
+D:\QLMay\Medibv115\obj\Debug\Medibv115.frmMain.resources
+D:\QLMay\Medibv115\obj\Debug\Medibv115.frmReport.resources
+D:\QLMay\Medibv115\obj\Debug\Medibv115.haison.resources
+D:\QLMay\Medibv115\obj\Debug\Medibv115.Properties.Resources.resources
+D:\QLMay\Medibv115\obj\Debug\Medibv115.csproj.GenerateResource.Cache
+D:\Source\QLMay\Medibv115\obj\Debug\Medibv115.frmDanhMucCT.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.exe
+E:\QLMay\Medibv115\obj\Debug\Medibv115.pdb
+E:\QLMay\Medibv115\bin\Debug\Medibv115.exe
+E:\QLMay\Medibv115\bin\Debug\Medibv115.pdb
+E:\QLMay\Medibv115\bin\Debug\Data.dll
+E:\QLMay\Medibv115\bin\Debug\DataMySQL.dll
+E:\QLMay\Medibv115\bin\Debug\DataOracle.dll
+E:\QLMay\Medibv115\bin\Debug\Entity.dll
+E:\QLMay\Medibv115\bin\Debug\LibBaocao.dll
+E:\QLMay\Medibv115\bin\Debug\LibLicense.dll
+E:\QLMay\Medibv115\bin\Debug\Oracle.DataAccess.dll
+E:\QLMay\Medibv115\bin\Debug\LibDuoc.dll
+E:\QLMay\Medibv115\bin\Debug\MySql.Data.dll
+E:\QLMay\Medibv115\bin\Debug\dichso.dll
+E:\QLMay\Medibv115\bin\Debug\DataOracle.pdb
+E:\QLMay\Medibv115\bin\Debug\DataMySQL.pdb
+E:\QLMay\Medibv115\bin\Debug\Data.pdb
+E:\QLMay\Medibv115\bin\Debug\Entity.pdb
+E:\QLMay\Medibv115\bin\Debug\LibBaocao.pdb
+E:\QLMay\Medibv115\obj\Debug\ResolveAssemblyReference.cache
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmDanhMucCT.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmBaoTri.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmDanhMuc.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmQLThietBi.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmAbout.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmDuyetBHYTNoiTru.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmBaoCaoNoiTruBHYT.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmBaoCaoNgoaiTruBHYT.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmBCDuocMau20.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmDuyetBHYT.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmLogin.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmMain.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmReport.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.haison.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.Properties.Resources.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.csproj.GenerateResource.Cache
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmQLYeuCau.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmDanhMucYC.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmQLBHYT.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmDanhMucQLBHYT.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmQLBHYT_trathe.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmchidinh.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmQLXoachidinh.resources
+E:\QLMay\Medibv115\obj\Debug\Medibv115.frmQLXoachidinhFromMaBN.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\bin\Debug\Data.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\bin\Debug\DataMySQL.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\bin\Debug\DataOracle.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\bin\Debug\Entity.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\bin\Debug\LibBaocao.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\bin\Debug\LibLicense.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\bin\Debug\Oracle.DataAccess.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\bin\Debug\LibDuoc.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\bin\Debug\MySql.Data.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\bin\Debug\dichso.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\bin\Debug\DataOracle.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\bin\Debug\DataMySQL.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\bin\Debug\Data.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\bin\Debug\Entity.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\bin\Debug\LibBaocao.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\ResolveAssemblyReference.cache
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmQLXoachidinhFromMaBN.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmQLXoachidinh.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmchidinh.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmQLBHYT_trathe.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmDanhMucQLBHYT.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmQLBHYT.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmDanhMucYC.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmQLYeuCau.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmDanhMucCT.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmBaoTri.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmDanhMuc.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmQLThietBi.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmAbout.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmDuyetBHYTNoiTru.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmBaoCaoNoiTruBHYT.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmBaoCaoNgoaiTruBHYT.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmBCDuocMau20.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmDuyetBHYT.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmLogin.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmMain.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmReport.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.haison.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.Properties.Resources.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.csproj.GenerateResource.Cache
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\Medibv115.frmTiepNhanKB.resources
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\bin\Debug\LibUsbDotNet.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\bin\Debug\LibUsbDotNet.xml
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\bin\Debug\IT115.exe
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\bin\Debug\IT115.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\IT115.exe
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Medibv115\obj\Debug\IT115.pdb
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\Medibv115.exe
+D:\QLMay NHAN TRA THE\Medibv115\obj\Debug\Medibv115.pdb

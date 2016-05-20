@@ -1,0 +1,8 @@
+bin\Debug\LibBaocao.dll
+bin\Debug\LibBaocao.pdb
+bin\Debug\Interop.Excel.dll
+bin\Debug\LibDuoc.dll
+bin\Debug\LibLicense.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LibBaocao.dll
+obj\Debug\LibBaocao.pdb

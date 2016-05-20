@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<Import>
+  <setup>
+    <STT>0</STT>
+    <P1>DN,HX,CH,NN,TK,HC,XK,CA,TN,HD,GD,TL,XV,HN,CN,HT,TB,MS,XB,XN,CC,CK,CB,KC,BT,TC,TQ,TA,TY,HG,NO,LS,HS,TE</P1>
+    <P2>data source=192.168.5.19; user id=sa;password=enter; database=medi115</P2>
+    <P3>172499</P3>
+    <P4>1</P4>
+    <P5>1</P5>
+    <P6>1</P6>
+    <P7>1</P7>
+    <P8>1</P8>
+    <P9>1</P9>
+    <P10>1</P10>
+    <P11>1</P11>
+    <P12>1</P12>
+    <P13>1</P13>
+    <P14>1</P14>
+    <P15>1</P15>
+    <P16>1</P16>
+    <P17>1</P17>
+    <P18>1</P18>
+    <P19>1</P19>
+    <P20>1</P20>
+    <P21>1</P21>
+    <P22>1</P22>
+    <P23>1</P23>
+    <P24>1</P24>
+    <P25>1</P25>
+  </setup>
+</Import>

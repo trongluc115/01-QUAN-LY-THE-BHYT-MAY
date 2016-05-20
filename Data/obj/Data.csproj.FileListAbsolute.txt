@@ -1,0 +1,129 @@
+D:\Medibv115\Data\obj\Debug\ResolveAssemblyReference.cache
+D:\Medibv115\Data\bin\Debug\Data.dll
+D:\Medibv115\Data\bin\Debug\Data.pdb
+D:\Medibv115\Data\obj\Debug\Data.dll
+D:\Medibv115\Data\obj\Debug\Data.pdb
+D:\Medibv115\Data\bin\Debug\Entity.dll
+D:\Medibv115\Data\bin\Debug\Entity.pdb
+D:\Medibv115\Data\bin\Debug\LibBaocao.dll
+D:\Medibv115\Data\bin\Debug\Oracle.DataAccess.dll
+D:\Medibv115\Data\bin\Debug\Interop.Excel.dll
+D:\Medibv115\Data\bin\Debug\LibDuoc.dll
+D:\Medibv115\Data\bin\Debug\dichso.dll
+D:\Medibv115\Data\bin\Debug\LibBaocao.pdb
+D:\Source\Medibv115\Data\bin\Debug\Data.dll
+D:\Source\Medibv115\Data\bin\Debug\Data.pdb
+D:\Source\Medibv115\Data\bin\Debug\Entity.dll
+D:\Source\Medibv115\Data\bin\Debug\Entity.pdb
+D:\Source\Medibv115\Data\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\Medibv115\Data\obj\Debug\Data.dll
+D:\Source\Medibv115\Data\obj\Debug\Data.pdb
+D:\Source\Medibv115\Data\bin\Debug\LibBaocao.dll
+D:\Source\Medibv115\Data\bin\Debug\LibLicense.dll
+D:\Source\Medibv115\Data\bin\Debug\Oracle.DataAccess.dll
+D:\Source\Medibv115\Data\bin\Debug\Interop.Excel.dll
+D:\Source\Medibv115\Data\bin\Debug\dichso.dll
+D:\Source\Medibv115\Data\bin\Debug\LibDuoc.dll
+D:\Source\Medibv115\Data\bin\Debug\LibBaocao.pdb
+D:\Source\QLMay\Data\bin\Debug\Data.dll
+D:\Source\QLMay\Data\bin\Debug\Data.pdb
+D:\Source\QLMay\Data\bin\Debug\Entity.dll
+D:\Source\QLMay\Data\bin\Debug\LibBaocao.dll
+D:\Source\QLMay\Data\bin\Debug\LibLicense.dll
+D:\Source\QLMay\Data\bin\Debug\Oracle.DataAccess.dll
+D:\Source\QLMay\Data\bin\Debug\Interop.Excel.dll
+D:\Source\QLMay\Data\bin\Debug\dichso.dll
+D:\Source\QLMay\Data\bin\Debug\LibDuoc.dll
+D:\Source\QLMay\Data\bin\Debug\Entity.pdb
+D:\Source\QLMay\Data\bin\Debug\LibBaocao.pdb
+D:\Source\QLMay\Data\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\QLMay\Data\obj\Debug\Data.dll
+D:\Source\QLMay\Data\obj\Debug\Data.pdb
+D:\QLMay\Data\bin\Debug\Data.dll
+D:\QLMay\Data\bin\Debug\Data.pdb
+D:\QLMay\Data\bin\Debug\Entity.dll
+D:\QLMay\Data\bin\Debug\LibBaocao.dll
+D:\QLMay\Data\bin\Debug\LibLicense.dll
+D:\QLMay\Data\bin\Debug\Oracle.DataAccess.dll
+D:\QLMay\Data\bin\Debug\Interop.Excel.dll
+D:\QLMay\Data\bin\Debug\LibDuoc.dll
+D:\QLMay\Data\bin\Debug\office.dll
+D:\QLMay\Data\bin\Debug\dichso.dll
+D:\QLMay\Data\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\QLMay\Data\bin\Debug\Entity.pdb
+D:\QLMay\Data\bin\Debug\LibBaocao.pdb
+D:\QLMay\Data\bin\Debug\office.xml
+D:\QLMay\Data\obj\Debug\ResolveAssemblyReference.cache
+D:\QLMay\Data\obj\Debug\Data.dll
+D:\QLMay\Data\obj\Debug\Data.pdb
+E:\QLMay\Data\bin\Debug\Data.dll
+E:\QLMay\Data\bin\Debug\Data.pdb
+E:\QLMay\Data\bin\Debug\Entity.dll
+E:\QLMay\Data\bin\Debug\LibBaocao.dll
+E:\QLMay\Data\bin\Debug\LibLicense.dll
+E:\QLMay\Data\bin\Debug\Oracle.DataAccess.dll
+E:\QLMay\Data\bin\Debug\Interop.Excel.dll
+E:\QLMay\Data\bin\Debug\LibDuoc.dll
+E:\QLMay\Data\bin\Debug\dichso.dll
+E:\QLMay\Data\bin\Debug\Entity.pdb
+E:\QLMay\Data\bin\Debug\LibBaocao.pdb
+E:\QLMay\Data\obj\Debug\ResolveAssemblyReference.cache
+E:\QLMay\Data\obj\Debug\Data.dll
+E:\QLMay\Data\obj\Debug\Data.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Data\bin\Debug\Data.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Data\bin\Debug\Data.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Data\bin\Debug\Entity.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Data\bin\Debug\LibBaocao.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Data\bin\Debug\LibLicense.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Data\bin\Debug\Oracle.DataAccess.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Data\bin\Debug\Interop.Excel.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Data\bin\Debug\LibDuoc.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Data\bin\Debug\dichso.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Data\bin\Debug\Entity.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Data\bin\Debug\LibBaocao.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Data\obj\Debug\ResolveAssemblyReference.cache
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Data\obj\Debug\Data.dll
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Data\obj\Debug\Data.pdb
+E:\Lap trinh\Lap trinh_test_khong xoa\QLMay\Data\obj\Release\ResolveAssemblyReference.cache
+D:\QLMay NHAN TRA THE\Data\bin\Debug\Data.dll
+D:\QLMay NHAN TRA THE\Data\bin\Debug\Data.pdb
+D:\QLMay NHAN TRA THE\Data\bin\Debug\Entity.dll
+D:\QLMay NHAN TRA THE\Data\bin\Debug\LibBaocao.dll
+D:\QLMay NHAN TRA THE\Data\bin\Debug\LibLicense.dll
+D:\QLMay NHAN TRA THE\Data\bin\Debug\Oracle.DataAccess.dll
+D:\QLMay NHAN TRA THE\Data\bin\Debug\Interop.Excel.dll
+D:\QLMay NHAN TRA THE\Data\bin\Debug\LibDuoc.dll
+D:\QLMay NHAN TRA THE\Data\bin\Debug\dichso.dll
+D:\QLMay NHAN TRA THE\Data\bin\Debug\Entity.pdb
+D:\QLMay NHAN TRA THE\Data\bin\Debug\LibBaocao.pdb
+D:\QLMay NHAN TRA THE\Data\obj\Debug\ResolveAssemblyReference.cache
+D:\QLMay NHAN TRA THE\Data\obj\Debug\Data.dll
+D:\QLMay NHAN TRA THE\Data\obj\Debug\Data.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Data\bin\Debug\Data.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Data\bin\Debug\Data.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Data\bin\Debug\Entity.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Data\bin\Debug\LibBaocao.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Data\bin\Debug\LibLicense.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Data\bin\Debug\Oracle.DataAccess.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Data\bin\Debug\Interop.Excel.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Data\bin\Debug\LibDuoc.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Data\bin\Debug\dichso.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Data\bin\Debug\Entity.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Data\bin\Debug\LibBaocao.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Data\obj\Debug\ResolveAssemblyReference.cache
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Data\obj\Debug\Data.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\QLMay NHAN TRA THE\Data\obj\Debug\Data.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Data\bin\Debug\Data.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Data\bin\Debug\Data.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Data\bin\Debug\Entity.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Data\bin\Debug\LibBaocao.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Data\bin\Debug\LibLicense.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Data\bin\Debug\Oracle.DataAccess.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Data\bin\Debug\Interop.Excel.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Data\bin\Debug\LibDuoc.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Data\bin\Debug\dichso.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Data\bin\Debug\Entity.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Data\bin\Debug\LibBaocao.pdb
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Data\obj\Debug\ResolveAssemblyReference.cache
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Data\obj\Debug\Data.dll
+D:\Driver E\Lap trinh\Lap trinh_test_khong xoa\01 QUAN LY THE BHYT MAY\Data\obj\Debug\Data.pdb

@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediIT115", "Medibv115\MediIT115.csproj", "{5FF966B7-C098-4ACE-9C61-9743D67036D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{9CC35692-74C7-46D2-8ED5-3B12A68F088F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{3EBD0B2E-DB70-4D75-9670-A23121FF4A76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataOracle", "DataOracle\DataOracle.csproj", "{3E2715EB-37D3-454E-A4DD-7F4B554928F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataMySQL", "DataMySQL\DataMySQL.csproj", "{8D6D2E93-AC6F-4631-9EFC-54A226298DBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibBaocao", "LibBaocao\LibBaocao.csproj", "{6B8729C4-0E8A-49D4-B0B8-3E676D757DA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLYeuCau", "QLYeuCau\QLYeuCau.csproj", "{08CF4987-2F6D-4427-BE75-EFA6A03DF80A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FF966B7-C098-4ACE-9C61-9743D67036D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF966B7-C098-4ACE-9C61-9743D67036D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF966B7-C098-4ACE-9C61-9743D67036D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF966B7-C098-4ACE-9C61-9743D67036D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC35692-74C7-46D2-8ED5-3B12A68F088F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC35692-74C7-46D2-8ED5-3B12A68F088F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC35692-74C7-46D2-8ED5-3B12A68F088F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC35692-74C7-46D2-8ED5-3B12A68F088F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EBD0B2E-DB70-4D75-9670-A23121FF4A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBD0B2E-DB70-4D75-9670-A23121FF4A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBD0B2E-DB70-4D75-9670-A23121FF4A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBD0B2E-DB70-4D75-9670-A23121FF4A76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E2715EB-37D3-454E-A4DD-7F4B554928F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2715EB-37D3-454E-A4DD-7F4B554928F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2715EB-37D3-454E-A4DD-7F4B554928F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2715EB-37D3-454E-A4DD-7F4B554928F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6D2E93-AC6F-4631-9EFC-54A226298DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6D2E93-AC6F-4631-9EFC-54A226298DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6D2E93-AC6F-4631-9EFC-54A226298DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6D2E93-AC6F-4631-9EFC-54A226298DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8729C4-0E8A-49D4-B0B8-3E676D757DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8729C4-0E8A-49D4-B0B8-3E676D757DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8729C4-0E8A-49D4-B0B8-3E676D757DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8729C4-0E8A-49D4-B0B8-3E676D757DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08CF4987-2F6D-4427-BE75-EFA6A03DF80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08CF4987-2F6D-4427-BE75-EFA6A03DF80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08CF4987-2F6D-4427-BE75-EFA6A03DF80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08CF4987-2F6D-4427-BE75-EFA6A03DF80A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
